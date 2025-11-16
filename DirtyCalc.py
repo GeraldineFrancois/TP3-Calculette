@@ -1,6 +1,6 @@
 import math
 
-print("********** CALCULETTE 2nd DEGRE **********")
+print("********** CALCULETTE 2nd DEGRE ! **********")
 
 print("Entrez a : ")
 a = input()
