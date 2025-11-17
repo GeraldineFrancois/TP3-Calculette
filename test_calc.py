@@ -28,6 +28,6 @@ def test_solve_quadratic_delta_negative():
 def test_error_a_zero():
     try:
         solve_quadratic(0, 2, 3)
-        assert False  # ne devrait jamais arriver
+        assert False 
     except ValueError:
         assert True
